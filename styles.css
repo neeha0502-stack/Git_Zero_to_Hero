@@ -4,3 +4,8 @@ body {
   padding: 2rem;
   background: #f6f8fa;
 }
+
+/* WIP: Experimental colors */
+.slogan {
+  color: #ff4081;  /* Bright pink - we might hate this later */
+}
